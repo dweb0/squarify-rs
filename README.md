@@ -1,5 +1,6 @@
 # Squarify-rs
 
+[![Build Status](https://img.shields.io/travis/com/dweb0/squarify-rs?style=flat-square)](https://travis-ci.com/dweb0/squarify-rs)
 [![License](https://img.shields.io/badge/License-MIT/Apache--2.0-blue.svg?style=flat-square)](https://github.com/dweb0/squarify-rs/blob/master/LICENSE-APACHE)
 
 Rust implementation of the squarify algorithm.
@@ -12,8 +13,10 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-protein-translate = "*"
+squarify = { git = "https://github.com/dweb0/squarify-rs" }
 ```
+
+> Will eventually publish to crates.io when ready.
 
 ## Example
 

@@ -15,4 +15,7 @@ exclude = ["/.travis.yml"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[badges]
+travis-ci = { repository = "dweb0/squarify-rs" }
+
 [dependencies]
