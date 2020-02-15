@@ -1,0 +1,18 @@
+[package]
+name = "squarify"
+version = "0.1.0"
+authors = ["dweb0"]
+edition = "2018"
+documentation = "https://docs.rs/squarify/"
+description = "Rust implementation of the treemap squarify algorithm."
+homepage = "https://github.com/dweb0/squarify-rs"
+repository = "https://github.com/dweb0/squarify-rs"
+readme = "README.md"
+keywords = ["squarify", "treemap"]
+categories = ["algorithms"]
+license = "MIT/Apache-2.0"
+exclude = ["/.travis.yml"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
