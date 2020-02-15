@@ -5,7 +5,7 @@
 
 Rust implementation of the squarify algorithm.
 
-This is a direct translation of the python implementation by [here](https://github.com/laserson/squarify). All credit goes to these developers.
+This is a direct translation of the python implementation [here](https://github.com/laserson/squarify). All credit goes to these developers.
 
 ## Usage
 
